@@ -192,3 +192,33 @@ Biggest Examples:
 
 
 <img width="616" height="336" alt="image" src="https://github.com/user-attachments/assets/81c624e4-1cb9-45d1-96c9-2080be56a00e" />
+
+
+<img width="756" height="414" alt="image" src="https://github.com/user-attachments/assets/157f4e63-779f-4369-801c-43bc045c8e73" />
+
+
+Color: Brings an emotional response 
+
+
+<img width="1291" height="591" alt="image" src="https://github.com/user-attachments/assets/8cea7b27-f5a3-4ab6-b102-3afd3978518c" />
+
+
+<img width="1185" height="712" alt="image" src="https://github.com/user-attachments/assets/f5e07d3c-ec07-4630-822e-db7982304173" />
+
+
+The transitioning from warm color into cold which reinforces the experience and emotion.
+
+
+<img width="1384" height="629" alt="image" src="https://github.com/user-attachments/assets/216cf31b-0132-4278-8787-f33f6904583c" />
+
+
+<img width="1362" height="639" alt="image" src="https://github.com/user-attachments/assets/9eaed5e5-38e6-415b-8c8c-a34ba3a63445" />
+
+
+<img width="1161" height="569" alt="image" src="https://github.com/user-attachments/assets/c177dc26-f7a1-4518-9c3a-8718dcaec215" />
+
+
+<img width="1167" height="568" alt="image" src="https://github.com/user-attachments/assets/18ed10e7-bfca-41c0-b749-f35f83c916b3" />
+
+
+<img width="1131" height="512" alt="image" src="https://github.com/user-attachments/assets/10d7a458-5f8a-44e0-8be8-0fbefe3e26e5" />
