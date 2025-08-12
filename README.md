@@ -267,3 +267,11 @@ Controlling the players focus
 
 
 Foreground: The character itself.
+
+
+<img width="1110" height="593" alt="image" src="https://github.com/user-attachments/assets/f307ab3a-32b7-4077-9653-51cc3f85e05f" />
+
+
+<img width="1042" height="537" alt="image" src="https://github.com/user-attachments/assets/0bbd5694-59f4-4582-8d27-4272443b35e2" />
+
+
