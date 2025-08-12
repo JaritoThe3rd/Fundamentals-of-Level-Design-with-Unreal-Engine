@@ -112,3 +112,24 @@ What might you change to the level to improve it?: In order to improve its gamep
 
 Link for the gameplay of the video if you're interested of linear space survival and base management: https://youtu.be/9qY43rbw5hs
 
+
+<img width="804" height="672" alt="image" src="https://github.com/user-attachments/assets/ebf4b8bb-67bf-4653-b379-4b58e6e2e376" />
+
+
+Name of the game: Killing Floor 3
+
+
+Publisher (and year it was published, if you know it): Tripwire Interactive
+
+
+The number or name of the level: Research Lab: Hardcore mode
+
+
+Then write one sentence each about:
+
+
+What makes the level great? Consider the different playstyles and how it balances: There's different weapon types with each of their own effect towards the zeds types also. Then each character or classes has their own abilities and perks then unique utilities that will enhance the player's playstyle and survivability.
+
+
+What might you change to the level to improve it? Probably more on how huge the map size and the level of environmental destruction that you can use to slowdown and kill the zeds.
+
