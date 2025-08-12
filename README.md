@@ -142,6 +142,33 @@ Comment: There's a level of creativity that's equivalent of knobs and dials, but
 
 <img width="816" height="384" alt="image" src="https://github.com/user-attachments/assets/b548a6f2-3717-4257-8c7f-3483d3c9bfad" />
 
+
 What might you change to the level to improve it? Probably more on how huge the map size and the level of environmental destruction that you can use to slowdown and kill the zeds.
 
+
+<img width="809" height="400" alt="image" src="https://github.com/user-attachments/assets/12b23c34-d348-4e9e-b022-3631d10f5a25" />
+
+
+<img width="836" height="448" alt="image" src="https://github.com/user-attachments/assets/e291fc51-162e-43e1-91d0-2f08255286da" />
+
+
+<img width="826" height="390" alt="image" src="https://github.com/user-attachments/assets/4949173e-f811-40a2-8da6-b4d6f3e63888" />
+
+
+<img width="830" height="396" alt="image" src="https://github.com/user-attachments/assets/475c1da3-9815-468f-8e39-1cd479989b96" />
+
+
+<img width="826" height="393" alt="image" src="https://github.com/user-attachments/assets/b8c9a60a-4f82-4d99-bdaa-8e27cf61cddf" />
+
+
+<img width="828" height="426" alt="image" src="https://github.com/user-attachments/assets/25138717-7e3d-4670-a902-d8b776124ee2" />
+
+
+Biggest Examples:
+
+
+<img width="830" height="386" alt="image" src="https://github.com/user-attachments/assets/818af5a4-46e8-4be5-92a1-989c31a404ad" />
+
+
+<img width="830" height="395" alt="image" src="https://github.com/user-attachments/assets/29102198-65c1-405a-9b5a-c9d4db55b098" />
 
