@@ -131,5 +131,17 @@ Then write one sentence each about:
 What makes the level great? Consider the different playstyles and how it balances: There's different weapon types with each of their own effect towards the zeds types also. Then each character or classes has their own abilities and perks then unique utilities that will enhance the player's playstyle and survivability.
 
 
+<img width="819" height="398" alt="image" src="https://github.com/user-attachments/assets/2ad07034-01ee-478f-9dad-fcddb83994d8" />
+
+
+<img width="822" height="375" alt="image" src="https://github.com/user-attachments/assets/24c48b53-e175-4546-9992-572a214acc5c" />
+
+
+Comment: There's a level of creativity that's equivalent of knobs and dials, but there's also another category of creativity where either you create or discover new knobs and dials.
+
+
+<img width="816" height="384" alt="image" src="https://github.com/user-attachments/assets/b548a6f2-3717-4257-8c7f-3483d3c9bfad" />
+
 What might you change to the level to improve it? Probably more on how huge the map size and the level of environmental destruction that you can use to slowdown and kill the zeds.
+
 
