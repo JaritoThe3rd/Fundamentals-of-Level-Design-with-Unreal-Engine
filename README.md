@@ -93,10 +93,22 @@ Player Flow: You lost track of time due to overflow of concentration towards the
 
 
 1. Name of the game: Alter
+
+   
 2. Publisher (and year it was published, if you know it): 11 Bit Studios
+
+   
 3. The number or name of the level:  Central mission—Build the Bridge
+
+   
 Then write one sentence each about:
+
+
 What makes the level great? Consider action and narratives: It was great because the game was all about resource gathering and management. Then you have to decide which types of resources that you wanted to commit gathering more, but the catch was it was based on your survivors traits and skills then mood will eventually decide whether you accomplish building the bridge or not.
+
+
 What might you change to the level to improve it?: In order to improve its gameplay and challenges is probably adding more people into your base and adding more variety of challenges based on the amount of people with you. Basically scalable difficulty based on your choices of population and resource consumption.
+
+
 Link for the gameplay of the video if you're interested of linear space survival and base management: https://youtu.be/9qY43rbw5hs
 
