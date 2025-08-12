@@ -43,3 +43,20 @@ Comment: Turns out soundtrack are typically sold separately since it makes playe
 
 
 <img width="678" height="430" alt="image" src="https://github.com/user-attachments/assets/cb42f3ed-a77d-486e-b7d8-15b6a95c9bf2" />
+
+
+Truth/Epiphany
+
+Comment: Level design is also about engagement and consequences. Where you could potetially understand yourself and the game environment.
+
+
+<img width="914" height="412" alt="image" src="https://github.com/user-attachments/assets/6745780f-5be8-42a7-b39d-2478f58437f4" />
+
+
+<img width="887" height="425" alt="image" src="https://github.com/user-attachments/assets/1faf61da-53ea-472f-8163-ecb35262168d" />
+
+
+<img width="928" height="416" alt="image" src="https://github.com/user-attachments/assets/6e4f853b-6b77-4111-9e36-f2dbe10acc0e" />
+
+
+<img width="673" height="427" alt="image" src="https://github.com/user-attachments/assets/b9c1d014-cc96-42e3-8c07-d0b5b14b8b51" />
