@@ -236,3 +236,34 @@ Deadspace is represents a horrific and gorified atmosphere due to its tone.
 <img width="1111" height="567" alt="image" src="https://github.com/user-attachments/assets/69eed0bd-d76c-430f-8e36-52a3f454c6cc" />
 
 
+<img width="1083" height="540" alt="image" src="https://github.com/user-attachments/assets/990e9ddb-1b12-4d01-9bbb-51e5e94c8395" />
+
+
+Comment: Having a colossus enemy portrays a very powerful opponent that engages the player to be more prepared.
+
+
+<img width="1064" height="632" alt="image" src="https://github.com/user-attachments/assets/0191ad15-3b09-42ab-ae85-40faf7e52319" />
+
+
+<img width="1103" height="541" alt="image" src="https://github.com/user-attachments/assets/88856a7e-bbcc-4e69-9f63-8234733f48cf" />
+
+
+Comment: Long hallways portrays compositional focus for the player.
+
+
+<img width="1125" height="631" alt="image" src="https://github.com/user-attachments/assets/da46d6a2-65bd-431f-a870-1a49aaaf71f5" />
+
+
+Comment: As a level designer your role is basically leading the lines. Where we want players to look where we want them to look.
+
+
+<img width="1067" height="625" alt="image" src="https://github.com/user-attachments/assets/a8878804-de44-4a13-8d9e-e5dcf0a85bfa" />
+
+
+Controlling the players focus
+
+
+<img width="934" height="510" alt="image" src="https://github.com/user-attachments/assets/67e73118-8f96-4fb4-9417-d02f19f8deaf" />
+
+
+Foreground: The character itself.
