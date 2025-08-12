@@ -45,7 +45,7 @@ Comment: Turns out soundtrack are typically sold separately since it makes playe
 <img width="678" height="430" alt="image" src="https://github.com/user-attachments/assets/cb42f3ed-a77d-486e-b7d8-15b6a95c9bf2" />
 
 
-Truth/Epiphany
+Truth/Epiphany:
 
 Comment: Level design is also about engagement and consequences. Where you could potetially understand yourself and the game environment.
 
@@ -60,3 +60,24 @@ Comment: Level design is also about engagement and consequences. Where you could
 
 
 <img width="673" height="427" alt="image" src="https://github.com/user-attachments/assets/b9c1d014-cc96-42e3-8c07-d0b5b14b8b51" />
+
+
+Player Flow: You lost track of time due to overflow of concentration towards the activity. Which the optimal state that you want your players to be in the game.
+
+
+<img width="1032" height="475" alt="image" src="https://github.com/user-attachments/assets/74ab05da-9f0c-4b93-ac82-06fc28262276" />
+
+
+<img width="956" height="398" alt="image" src="https://github.com/user-attachments/assets/28c1cf69-21cf-4d6e-a39e-76cf38560fb6" />
+
+
+<img width="975" height="383" alt="image" src="https://github.com/user-attachments/assets/58473e01-fe50-45c7-b7c3-8c23bc08f951" />
+
+
+<img width="688" height="450" alt="image" src="https://github.com/user-attachments/assets/7b0f3a9b-ca6e-4328-882f-c01694cb014b" />
+
+
+<img width="674" height="442" alt="image" src="https://github.com/user-attachments/assets/20da3188-454f-4567-9840-ce1607d40f45" />
+
+
+<img width="911" height="411" alt="image" src="https://github.com/user-attachments/assets/601dc6ca-aec4-49f0-9b89-c98dd899ef12" />
