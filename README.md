@@ -31,3 +31,15 @@ Texture and line
 
 
 <img width="941" height="399" alt="image" src="https://github.com/user-attachments/assets/3c55479b-8606-45f4-a99b-51f8660d0b2d" />
+
+
+<img width="992" height="404" alt="image" src="https://github.com/user-attachments/assets/49bf482e-7bb8-437d-b4d8-7239f49448c4" />
+
+
+Comment: Turns out soundtrack are typically sold separately since it makes players so attached to the game that they would listen to it.
+
+
+<img width="832" height="436" alt="image" src="https://github.com/user-attachments/assets/c1dfc237-8bc9-4844-a600-dc9bfb9ae004" />
+
+
+<img width="678" height="430" alt="image" src="https://github.com/user-attachments/assets/cb42f3ed-a77d-486e-b7d8-15b6a95c9bf2" />
