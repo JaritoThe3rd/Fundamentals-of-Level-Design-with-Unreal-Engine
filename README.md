@@ -275,3 +275,126 @@ Foreground: The character itself.
 <img width="1042" height="537" alt="image" src="https://github.com/user-attachments/assets/0bbd5694-59f4-4582-8d27-4272443b35e2" />
 
 
+<img width="970" height="528" alt="image" src="https://github.com/user-attachments/assets/37eb46bd-e4d4-4184-948c-97fc25ea8fa4" />
+
+
+<img width="1271" height="519" alt="image" src="https://github.com/user-attachments/assets/164a1b17-562b-4e67-9670-dfeec1145526" />
+
+
+Examples; Trees rustling from the wind, weapon reload sound, hearing gunshots from your enemies.
+
+
+<img width="1110" height="534" alt="image" src="https://github.com/user-attachments/assets/86253bfe-5568-4e07-813c-d1ad663e34f8" />
+
+
+Examples: Soundtrack that happens on the background to keep your adrenaline going.
+
+
+<img width="1096" height="499" alt="image" src="https://github.com/user-attachments/assets/617896f0-7537-46d1-9f21-d12e43d3f90a" />
+
+
+<img width="1074" height="514" alt="image" src="https://github.com/user-attachments/assets/c7521da2-b572-4c53-839a-2f8e5266b4b4" />
+
+
+Outlast is the best example for providing feedback on what's happening around the environment.
+
+
+<img width="1230" height="459" alt="image" src="https://github.com/user-attachments/assets/2cb2d1ea-8ab5-4817-b790-b0dc2a095be3" />
+
+
+<img width="1145" height="636" alt="image" src="https://github.com/user-attachments/assets/e75a6974-8672-43cf-a12b-d058f7b7b7f6" />
+
+
+Examples: Dual shock controllers creating vibration to reflect touch which creates a haptic experience.
+
+
+<img width="1219" height="596" alt="image" src="https://github.com/user-attachments/assets/6a3f3902-70da-4483-9be6-4043834b1815" />
+
+
+<img width="1228" height="635" alt="image" src="https://github.com/user-attachments/assets/8182bc7a-efef-4bd1-beec-05613f9f1bda" />
+
+
+<img width="1196" height="620" alt="image" src="https://github.com/user-attachments/assets/be4e61ac-76d5-44b4-8400-5cc80930fb7e" />
+
+
+<img width="1429" height="650" alt="image" src="https://github.com/user-attachments/assets/890e22a0-aa94-4095-94b2-6e0feccf410c" />
+
+
+Explanation: Some games focuses on realism and other create their own version of reality.
+
+
+<img width="1285" height="577" alt="image" src="https://github.com/user-attachments/assets/621d70ee-d6bb-4666-afec-f197b6153ada" />
+
+
+The handle and the stairs communicate their function which are called "Affordances"
+
+
+<img width="1207" height="491" alt="image" src="https://github.com/user-attachments/assets/50e5bf34-3974-4117-8110-eb8b2dde0551" />
+
+
+<img width="1309" height="599" alt="image" src="https://github.com/user-attachments/assets/4c6357a1-5810-406b-a317-aa933db8ba91" />
+
+
+If we seeing a chest with a handle that communicates the idea that we can carry it.
+
+
+<img width="1187" height="628" alt="image" src="https://github.com/user-attachments/assets/45e79568-8086-418b-a864-0faa788a4e42" />
+
+
+Tonal highlights from Uncharted represents affordances where the player can actually climb higher through that tonal cliff.
+
+
+<img width="1176" height="559" alt="image" src="https://github.com/user-attachments/assets/78244470-9f27-4c13-8c83-7a27f5fac5e5" />
+
+
+<img width="1149" height="250" alt="image" src="https://github.com/user-attachments/assets/eb81460a-f036-4ad1-9191-f9671c0bef45" />
+
+
+<img width="1154" height="222" alt="image" src="https://github.com/user-attachments/assets/8cf9e408-e6c2-4684-9c90-660cb2d6e58b" />
+
+
+<img width="1133" height="631" alt="image" src="https://github.com/user-attachments/assets/ac30d6c8-899c-4aef-a97c-aceeea11e0b1" />
+
+
+<img width="1075" height="553" alt="image" src="https://github.com/user-attachments/assets/7da3afc9-c42c-4ec2-99ed-7cc99a7d853f" />
+
+
+Teaching the mechanics to the player will make him more cognitive with his actions. Whether its an obstacle in the game or a puzzle.
+
+
+<img width="1177" height="535" alt="image" src="https://github.com/user-attachments/assets/522633c3-cc8f-43fd-b97f-a8a15988f4d0" />
+
+
+<img width="1120" height="595" alt="image" src="https://github.com/user-attachments/assets/d8cb968b-2b15-4ea9-89d3-1e0f0b44100b" />
+
+
+<img width="901" height="601" alt="image" src="https://github.com/user-attachments/assets/88c9c620-ace3-49fc-96a3-7f062538d7b9" />
+
+
+<img width="1168" height="602" alt="image" src="https://github.com/user-attachments/assets/51647ace-b552-406a-aa69-675b956cca8a" />
+
+
+<img width="932" height="508" alt="image" src="https://github.com/user-attachments/assets/e29257d3-bf4c-4ab0-8af5-e2aa892ec5ef" />
+
+
+<img width="1105" height="622" alt="image" src="https://github.com/user-attachments/assets/542c6700-6acf-4959-820c-c2f16e7d67bc" />
+
+
+In Bioshock they built their implicit narrative through the use of environments such as building architecture, statues, and posters.
+
+
+ <img width="1098" height="613" alt="image" src="https://github.com/user-attachments/assets/3ab80ca8-9d18-4aa7-902a-1f9418dcee02" />
+
+
+In Firewatch you need to find clues and evidences which built the narrative of the game.
+
+
+<img width="1041" height="450" alt="image" src="https://github.com/user-attachments/assets/b1202b5c-d22e-49e2-9df9-b733f8f0f01d" />
+
+
+Reliant on player choice for example Minecraft is a procedural world where the player decides his progress.
+
+
+<img width="1096" height="600" alt="image" src="https://github.com/user-attachments/assets/980ca7d3-c03d-46cd-97a1-db34b4c75e2b" />
+
+
