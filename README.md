@@ -398,3 +398,51 @@ Reliant on player choice for example Minecraft is a procedural world where the p
 <img width="1096" height="600" alt="image" src="https://github.com/user-attachments/assets/980ca7d3-c03d-46cd-97a1-db34b4c75e2b" />
 
 
+<img width="1185" height="545" alt="image" src="https://github.com/user-attachments/assets/1eaafe1d-67ac-4bde-8df4-9d879aa31eeb" />
+
+
+<img width="1183" height="598" alt="image" src="https://github.com/user-attachments/assets/548e5015-2ac6-4355-8aa8-1e008f7b13fd" />
+
+
+We're focusing on level mechanics loop instead of player loop.
+
+
+<img width="1087" height="584" alt="image" src="https://github.com/user-attachments/assets/8e066fd6-feec-4e97-a1ba-f21d9918dac6" />
+
+
+<img width="1110" height="520" alt="image" src="https://github.com/user-attachments/assets/d6575a7b-b8f3-4dda-8d17-bd0fac678895" />
+
+
+Informing the player that a certain mechanic exist.
+
+
+<img width="1235" height="545" alt="image" src="https://github.com/user-attachments/assets/874e809d-4c35-4347-9366-962dc7095b63" />
+
+
+Giving opportunities for the player to practice certain mechanics.
+
+
+<img width="1254" height="539" alt="image" src="https://github.com/user-attachments/assets/8caa9c20-0465-40e2-8bff-417df551172a" />
+
+
+Final exam for the player.
+
+
+<img width="1221" height="549" alt="image" src="https://github.com/user-attachments/assets/3eb59e2a-8ed3-4ef0-b7ba-a5215a3d9d9d" />
+
+
+Basically set up a tutorial for the game mechanic and make sure that the players knows how to do it.
+
+
+<img width="1208" height="597" alt="image" src="https://github.com/user-attachments/assets/ff3166ab-339b-4d2f-9e70-51528ed51117" />
+
+
+<img width="1126" height="589" alt="image" src="https://github.com/user-attachments/assets/54e74d0a-f0e7-4a80-862c-7aa388b09fc8" />
+
+
+<img width="1172" height="567" alt="image" src="https://github.com/user-attachments/assets/2d12971d-2453-439e-b587-9d12480d3726" />
+
+
+<img width="1206" height="622" alt="image" src="https://github.com/user-attachments/assets/65733f95-609b-4c13-b64b-91fad56aa717" />
+
+
