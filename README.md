@@ -446,3 +446,53 @@ Basically set up a tutorial for the game mechanic and make sure that the players
 <img width="1206" height="622" alt="image" src="https://github.com/user-attachments/assets/65733f95-609b-4c13-b64b-91fad56aa717" />
 
 
+<img width="1052" height="627" alt="image" src="https://github.com/user-attachments/assets/12c0afe3-3d5c-4a52-8e75-487fb68c2ee6" />
+
+
+<img width="1127" height="666" alt="image" src="https://github.com/user-attachments/assets/43e856b3-d34e-487b-bfa8-5b94dd22dce8" />
+
+
+<img width="1113" height="607" alt="image" src="https://github.com/user-attachments/assets/03ca31e1-a7e7-4dfe-a536-2f649ddbb59d" />
+
+
+<img width="1054" height="603" alt="image" src="https://github.com/user-attachments/assets/3518ed37-9e5f-4816-a0e9-693809111995" />
+
+
+<img width="1244" height="627" alt="image" src="https://github.com/user-attachments/assets/259f57d9-66b2-473e-831d-397e4443e095" />
+
+
+Personal experiences are way too subjective.
+
+
+<img width="1188" height="488" alt="image" src="https://github.com/user-attachments/assets/e3d69a60-ab51-4775-a9c5-ea757ee14d6a" />
+
+
+<img width="1280" height="453" alt="image" src="https://github.com/user-attachments/assets/5171d564-f6a0-4389-8db7-a16b28299dd9" />
+
+
+Achievement are basically completeion rate.
+
+
+<img width="1106" height="594" alt="image" src="https://github.com/user-attachments/assets/24f92dd3-db5a-48ce-939f-bbe6e7e152ab" />
+
+
+Massive drop offs on completion rates means that the levels are too difficult for the playerbase.
+
+
+<img width="1283" height="492" alt="image" src="https://github.com/user-attachments/assets/1f27cf68-a9a0-4492-a71a-ea6dffc613f1" />
+
+
+<img width="1017" height="620" alt="image" src="https://github.com/user-attachments/assets/e7677685-5e1e-41dd-876e-0e9eaae7985c" />
+
+
+<img width="1159" height="645" alt="image" src="https://github.com/user-attachments/assets/17a476fa-9f41-47db-a877-890de890feea" />
+
+
+<img width="1131" height="582" alt="image" src="https://github.com/user-attachments/assets/d2dd66bd-51b9-448b-8912-4393e401b376" />
+
+
+<img width="1259" height="574" alt="image" src="https://github.com/user-attachments/assets/99da1616-83ba-4ba7-90ca-cc239a12f1d5" />
+
+
+Even a player playing similar games might end up in a different metanarrative.
+
